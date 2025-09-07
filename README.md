@@ -2,12 +2,15 @@
 
 Camping Web is a simple static homepage built with HTML and CSS.
 It is designed as a front page for a platform that allows renting tourist and camping places.
+The project also includes the Adobe XD file used for the UI design.
 
 ✨ Features
 
 Clean and modern homepage design
 
 Responsive layout (works across devices)
+
+Includes Adobe XD UI design file
 
 Easy to extend into a full booking platform
 
@@ -36,6 +39,8 @@ Simply open the index.html file in your browser.
 HTML
 
 CSS
+
+Adobe XD (UI/UX design)
 
 📌 Project Status
 
